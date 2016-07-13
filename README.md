@@ -1,7 +1,7 @@
-## demo3
+## demo2
 
 * 【目的】 使用gulp + Browserify构建React应用
-
+* **
 * 【启动步骤】
 	*  1、npm install
 	* 2、开发环境：gulp
